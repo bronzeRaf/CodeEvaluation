@@ -16,7 +16,7 @@ Any part of a repository could be evaluated. A class, a package or even a method
 
 where **stars** is the number of stars of the repository, **forks** the number of forks of the repository, **LOC** the lines of code of the current evaluated part, **sum(LOC)** the total lines of code of the full repository and **parts** the number of parts (of same kind) of the repository. For example, to evaluate the class A who belongs to a repository R1, LOC is the lines of code of class A, sum(LOC) the total lines of code of the repository R1, parts the number of classes that belong to the repository R1, stars the stars of the  repository R1 and forks the forks of the repository R1.
 
-## Source code
+## SOURCE CODE
 For the code evaluation, a lot of work has to be done. Data preprocessing, model construction and experimental setup. This work is done by the scripts in the "scripts" folder. In there, there are 3 folders (preprocessing, building models and experimental setup), containing script 
 
 #### Preprocessing
