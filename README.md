@@ -1,5 +1,5 @@
 # CodeEvaluation
-This is a set of source code evaluation scripts, based on the static analysis of the code. Many different models in R have been developed trying to predict the quality of the source code from its static analysis metrics.
+This is a set of source code evaluation scripts, based on the static analysis of the code. Many different models in R have been developed trying to predict the quality of the source code from its static analysis metrics. The full documentation of the project could be found in "Code Evaluation.pdf". This paper contains details about the models developed and tested, the experimental setup and the results.
 
 ## DATASET
 The Dataset used to train the models is available in the "dataset" folder. It contains data from 100 public repositories of 2016. For every repository the dataset stores: 
